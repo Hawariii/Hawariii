@@ -85,7 +85,7 @@
 
 ###
 
-<p data-importer="text" align="left">Catch me on socials so you never miss a beat—make sure to hit that follow on my CurseForge (Aizhu)!</p>
+<h3 data-importer="text" align="center">Catch me on socials so you never miss a beat—make sure to hit that follow on my CurseForge (Aizhu)!</h3>
 
 ###
 
