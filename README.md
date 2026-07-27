@@ -102,8 +102,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Hawariii/Hawariii/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Hawariii/Hawariii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://raw.githubusercontent.com/Hawariii/Hawariii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Hawariii&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Hawariii/Hawariii/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&color=ffffff&line=00FF00&area_color=ffffff" height="300" alt="activity-graph graph"  />
 </div>
